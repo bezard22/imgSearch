@@ -1,4 +1,2 @@
 # imgSearch
-
-#Datasets
-https://data.caltech.edu/records/mzrjq-6wc02
+A simple utility for searching local image files for similar images.

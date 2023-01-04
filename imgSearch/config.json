@@ -1,0 +1,9 @@
+{
+    "dataDir": "C:\\Users\\bwez1\\Documents\\Main\\Repos\\imgSearch\\imgSearch\\Data",
+    "detectors": {
+        "ORB": true,
+        "SIFT": true   
+    },
+    "distanceMetric": "NORM_HAMMING",
+    "crossCheck": true
+}
